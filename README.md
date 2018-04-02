@@ -5,7 +5,7 @@ A curated list of Windows 10 technical and support forums in no particular order
 
 [CNET](https://www.cnet.com/forums/windows-10/)
 
-[Windows10Forums.cpm](https://www.windows10forums.com/)
+[Windows10Forums.com](https://www.windows10forums.com/)
 
 [Windows10.help](https://windows10.help/)
 
